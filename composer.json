@@ -1,0 +1,12 @@
+{
+    "name": "slimen/cv-template",
+    "description": "Online curriculum template with php poo",
+    "authors": [
+        {
+            "name": "Slimen",
+            "email": "metatidj.slimen@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
